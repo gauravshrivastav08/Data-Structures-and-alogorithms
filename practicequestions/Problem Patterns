@@ -1,0 +1,14 @@
+Few terms in DSA:
+
+Time Complexity: O(N).  Only one traversal of the array is needed.
+Auxiliary Space: O(1). No extra space is needed
+
+Patterns in DSA:
+
+1. Two pointers pattern, used to align 0's and 1's in ascending order in a given Array.
+
+2. Three pointers pattern, used to align 0's, 1's and 2's in ascending order in a
+   given Array.
+
+3. Sliding window pattern, used to find a max number in a given range in Array.
+   Used a technique of next greatest element here.
